@@ -15,3 +15,6 @@
 
 ### Feature Engineering
 - nof_match(int) : 공통 feature인 a, c, d, e, h 중 몇개가 일치하는지
+
+### Code index
+![image](https://user-images.githubusercontent.com/25517592/152281759-70d06c10-1a17-4c9a-8616-017ec7edeb5b.png)
