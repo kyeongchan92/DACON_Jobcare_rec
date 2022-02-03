@@ -4,7 +4,7 @@
 ### Summary
 - Model : Catboost
 - Feature : 약 60개 카테고리컬 설명변수, 이진분류 예측(1 : 사용, 0 : 미사용)
-- 핵심 : 카테고리컬 변수가 많을 때 Catboost가 높은 성능을 보일 수 있는 이유
+- 핵심 : **카테고리컬 변수가 많을 때 Catboost가 높은 성능을 보일 수 있는 이유**
 
 ### Features
 - 사람에 관련된 feature들과 콘텐츠에 관련되 feature들로 나뉘어져있음
